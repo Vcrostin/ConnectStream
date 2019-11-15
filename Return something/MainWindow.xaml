@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Return_something"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Icon="kisspng-free-content-download-clip-art-begin-cliparts-5a89b14a170c79.5574867815189732580944.jpg" WindowStyle="None">
+        Title="MainWindow" Height="450" Width="800" Icon="kisspng-free-content-download-clip-art-begin-cliparts-5a89b14a170c79.5574867815189732580944.jpg" WindowStartupLocation="CenterScreen" MinWidth="800" MinHeight="450" MaxWidth="800" MaxHeight="450">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="Letyokha_Shapka_22.png">
